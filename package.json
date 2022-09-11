@@ -9,8 +9,12 @@
   },
   "keywords": [
     "cryptography",
-		"random byte"
+    "random byte"
   ],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "argon2": "^0.28.5",
+    "prompt-sync": "^4.2.0"
+  }
 }
